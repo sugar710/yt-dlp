@@ -2249,8 +2249,7 @@ from .unistra import UnistraIE
 from .unitednations import UnitedNationsWebTvIE
 from .unity import UnityIE
 from .unsupported import (
-    KnownDRMIE,
-    KnownPiracyIE,
+    KnownDRMIE
 )
 from .uol import UOLIE
 from .uplynk import (
